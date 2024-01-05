@@ -1,4 +1,4 @@
-# UNES Official Page Project
+# UNES Official Page Project EN | PT-BR
 
 Welcome to the project repository of the Official Page of the National University of Higher Education (UNES). This is a complete project that aims to create the official UNES website, offering crucial information about the university. The site is developed using exclusively HTML and may be expanded with additional features in the future.
 
